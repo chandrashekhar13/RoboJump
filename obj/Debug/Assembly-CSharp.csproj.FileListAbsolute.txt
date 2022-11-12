@@ -1,0 +1,2 @@
+C:\Users\DxTro\RoboJump\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\DxTro\RoboJump\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
